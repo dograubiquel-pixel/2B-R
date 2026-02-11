@@ -1,0 +1,7 @@
+3.Crie um aplicativo que mostre na tela a seguinte contagem : 0 3 6 9 12 15 18 Acabou!
+// Iteração simples de 0 a 4 
+for (let i = 0; i <= 18; i+=3) {
+// i++ é o incremento que evita o loop infnito
+comsole. log ('Contagem: ${i}');
+}
+console.log ('Acabou') ;
