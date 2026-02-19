@@ -1,0 +1,5 @@
+If % 4 = 0 then 
+
+Write "[", number, "]"
+Else
+White the number,""
