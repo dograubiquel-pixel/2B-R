@@ -1,0 +1,9 @@
+<html>
+<head><title>Math.abs exemplo</title></head>
+<body>
+  <script>
+    var valor1 = Math.abs(-1234);
+    alert(valor1);
+  </script>
+</body>
+</html>
