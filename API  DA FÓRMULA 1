@@ -1,0 +1,2 @@
+https://github.com/seu-usuario/podcast-manager-nodejs 
+Este projeto consiste na criação de um Gerenciador de Podcasts, desenvolvido com Node.js runtime utilizando TypeScript e o módulo nativo HTTP. A aplicação simula uma API REST capaz de gerenciar informações sobre episódios de podcasts, permitindo a consulta e organização de dados de forma simples e eficiente.
