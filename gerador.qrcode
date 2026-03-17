@@ -1,0 +1,2 @@
+https://github.com/dograubiquel-pixel/2B-R/new/main
+Este projeto consiste na criação de um gerador de QR Codes para e-commerces, desenvolvido com Node.js runtime. A aplicação permite gerar QR Codes de forma dinâmica a partir de URLs ou dados fornecidos pelo usuário, facilitando o compartilhamento de links de produtos, páginas de pagamento e campanhas promocionais.
